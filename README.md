@@ -1,7 +1,7 @@
 # Setting Up Docker 3 tier App using Compose
 
 ```
-  wget https://raw.githubusercontent.com/javahometech/docker-compose-3-tier/master/docker-compose.yml
+  wget https://raw.githubusercontent.com/sreeharsha-alluri/docker-compose-3-tier/master/docker-compose.yml
   
 ```
 
